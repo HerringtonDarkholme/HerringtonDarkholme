@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Herrington's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerringtonDarkholme)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Introduction
 - 🔭 I’m currently working on [Vue compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
 - 🌱 I’m currently learning how to port [ast transformer](https://github.com/thx/gogocode) to Rust.
