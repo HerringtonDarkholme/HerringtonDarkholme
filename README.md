@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Vue compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
 - 🌱 I’m currently learning how to port [ast transformer](https://github.com/thx/gogocode) to Rust.
 - 💬 Ask me about AST transforming in a language with ownership.
-- 📫 How to reach me: Found me on [twitter](https://twitter.com/Hchan_mgn)!
+- 📫 How to reach me: Found me on [twitter](https://twitter.com/hd_nvim)!
 
 
 ### Language
