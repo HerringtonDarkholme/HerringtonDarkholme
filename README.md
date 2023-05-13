@@ -18,6 +18,13 @@ I'm the author of a code search and rewriting tool, [ast-grep](https://ast-grep.
 [![Herrington's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerringtonDarkholme)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerringtonDarkholme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### Sponsors
+I sincerely thank my sponsors for your trust and support!
+![Sponsors](https://raw.githubusercontent.com/HerringtonDarkholme/sponsors/main/sponsorkit/sponsors.svg)
+
+If you love my code and work, [buying me a coffee](https://github.com/sponsors/HerringtonDarkholme) will help me a lot so I can spend more time on the project!
+
 <!--
 **HerringtonDarkholme/HerringtonDarkholme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,4 +33,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-
