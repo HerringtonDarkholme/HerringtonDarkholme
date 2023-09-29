@@ -3,7 +3,7 @@
 ### Introduction
 Hi there! I'm Herrington Darkholme. I'm a web dev and web-dev-tool dev who is proficient in [TypeScript](https://medium.com/@hchan_nvim/into-the-chamber-of-secrets-break-through-the-limits-of-typescript-3532c6dd080) and [Rust](https://medium.com/better-programming/optimize-ast-grep-to-get-10x-faster-e7be56f73b).
 
-I'm the author of a code search and rewriting tool, [ast-grep](https://ast-grep.github.io/). Feel free to reach me out if ast-grep can help you to ship breaking changes or help users to adopt new APIs!
+I'm the author of a code search and rewriting tool, [ast-grep](https://ast-grep.github.io/). Feel free to reach me out if ast-grep can help you to ship breaking changes or help users to adopt new APIs! 
 
 ### Ideas?
 - 🔭 I’m currently working on [ast-grep](https://ast-grep.github.io/) and [Vue compiler in Rust](https://github.com/HerringtonDarkholme/vue-compiler)
@@ -12,7 +12,7 @@ I'm the author of a code search and rewriting tool, [ast-grep](https://ast-grep.
 - 👯 I’m looking to collaborate on OSS project to help users migrate to new APIs!
 - 📒 Other OSS: [@element-plus](https://github.com/element-plus/element-plus), [@vuejs](https://vuejs.org/), [TypeScript](https://github.com/microsoft/TypeScript) and [rspack](https://www.rspack.dev/)
 - 📫 How to reach me: Found me on [twitter](https://twitter.com/hd_nvim) or [medium](https://medium.com/@hchan_nvim)!
-
+- 🥱 Bored? This [JS Crush](https://js-crush.vercel.app) game can kill you some time!
 
 ### Language
 [![Herrington's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerringtonDarkholme)](https://github.com/anuraghazra/github-readme-stats)
